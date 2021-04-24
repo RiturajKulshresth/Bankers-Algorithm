@@ -1,3 +1,4 @@
+# BAnkers Algorithm for resourse allocation
 Assumption : the data will be entered in the following way
 It gives the cuurent state as safe or not in the program
 The used table below has following data :
