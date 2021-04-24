@@ -38,12 +38,17 @@ Here is the output/input for question 2
 
 
 (base) netrunner@dew:~/Desktop/sem 7/ass6$ g++ -o test ass6_2.cpp
+
 (base) netrunner@dew:~/Desktop/sem 7/ass6$ ./test
+
 Enter the Number of Processes 5
+
 Enter the Number of resource types 3
+
 Enter the Available matrix 3
 3
 2
+
 Enter the Max matrix 7
 5
 3
@@ -59,6 +64,7 @@ Enter the Max matrix 7
 4
 3
 3
+
 Enter the Allocation matrix 0
 1
 0
@@ -74,6 +80,7 @@ Enter the Allocation matrix 0
 0
 0
 2
+
 Enter the Need matrix 1
 1
 1
@@ -89,10 +96,15 @@ Enter the Need matrix 1
 1
 1
 1
+
 Enter Process Number 1
+
 Enter the resourse request matrix 1
 1
 1
+
 Safe State
+
 Request can be Fulfilled
+
 (base) netrunner@dew:~/Desktop/sem 7/ass6$ 
